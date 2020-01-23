@@ -1,2 +1,2 @@
 /test/redirect  /
-/test/rewrite   /index.html  200
+/test/rewrite   /  200
