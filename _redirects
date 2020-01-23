@@ -1,2 +1,8 @@
+http://netlify-two.kapitiflyfishing.org.nz/* https://netlify-one.kapitiflyfishing.org.nz/:splat 301!
+https://netlify-two.kapitiflyfishing.org.nz/* https://netlify-one.kapitiflyfishing.org.nz/:splat 301!
+
+http://compassionate-bhaskara-8f6110.netlify.com/* https://netlify-one.kapitiflyfishing.org.nz/:splat 301!
+https://compassionate-bhaskara-8f6110.netlify.com/* https://netlify-one.kapitiflyfishing.org.nz/:splat 301!
+
 /test/redirect  /
 /test/rewrite   /  200
